@@ -3091,6 +3091,33 @@
         ]
       },
       {
+        "name": "Lezhin",
+        "packageName": "eu.kanade.tachiyomi.extension.all.lezhin",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.lezhin-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/lezhin/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.lezhin-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7693526127833799479",
+            "name": "Lezhin",
+            "language": "en",
+            "homeUrl": "https://www.lezhinus.com"
+          },
+          {
+            "id": "5146298749094671151",
+            "name": "Lezhin",
+            "language": "ko",
+            "homeUrl": "https://www.lezhin.com"
+          }
+        ]
+      },
+      {
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
@@ -5811,6 +5838,27 @@
             "name": "PandaChaika",
             "language": "el",
             "homeUrl": "https://panda.chaika.moe"
+          }
+        ]
+      },
+      {
+        "name": "Patreon",
+        "packageName": "eu.kanade.tachiyomi.extension.all.patreon",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.patreon-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/patreon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.patreon-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8579728571880237457",
+            "name": "Patreon",
+            "language": "all",
+            "homeUrl": "https://www.patreon.com"
           }
         ]
       },

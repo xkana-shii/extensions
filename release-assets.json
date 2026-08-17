@@ -579,6 +579,16 @@
       "sha256": "e40ac75ec75ce730942d4292409655270ba26d6a831e4aefe899d001ce08b8a2"
     }
   },
+  "eu.kanade.tachiyomi.extension.all.lezhin": {
+    "apk": {
+      "name": "tachiyomi-all.lezhin-v1.6.2.apk",
+      "sha256": "02ebe1586b5d48cffb5f0aa1c9a5ea86676885310694cff9d6d769351cc561d7"
+    },
+    "jar": {
+      "name": "tachiyomi-all.lezhin-v1.6.2.jar",
+      "sha256": "577999933cc79026ea94fa63eab5b008174133c3adc4f907f260d0af29900552"
+    }
+  },
   "eu.kanade.tachiyomi.extension.all.lunaranime": {
     "apk": {
       "name": "tachiyomi-all.lunaranime-v1.4.12.apk",
@@ -957,6 +967,16 @@
     "jar": {
       "name": "tachiyomi-all.pandachaika-v1.4.4.jar",
       "sha256": "331ab402a586d2128c8fd9fd25ae3ded0f4d8427f0547d70eb5f98ce92701b04"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.all.patreon": {
+    "apk": {
+      "name": "tachiyomi-all.patreon-v1.6.2.apk",
+      "sha256": "9682ca5f9db3ddddc3bd32bef191bc28aba5d40874826644a7fb5930dcf3447f"
+    },
+    "jar": {
+      "name": "tachiyomi-all.patreon-v1.6.2.jar",
+      "sha256": "2818dfd94d4db422fbc7287c1ec90ec518b95fca79ebc804a501cc33527e9a21"
     }
   },
   "eu.kanade.tachiyomi.extension.all.pawchive": {
