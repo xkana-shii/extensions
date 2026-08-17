@@ -972,11 +972,11 @@
   "eu.kanade.tachiyomi.extension.all.patreon": {
     "apk": {
       "name": "tachiyomi-all.patreon-v1.6.2.apk",
-      "sha256": "9682ca5f9db3ddddc3bd32bef191bc28aba5d40874826644a7fb5930dcf3447f"
+      "sha256": "b2e7b3ca43fb6645d2b718bf14dc842e1f6976a3ac1d2ecf55895fd14b68a576"
     },
     "jar": {
       "name": "tachiyomi-all.patreon-v1.6.2.jar",
-      "sha256": "2818dfd94d4db422fbc7287c1ec90ec518b95fca79ebc804a501cc33527e9a21"
+      "sha256": "36be1441fcaba397197d0aca4937214d64986b67c2b6c3aafe836ddee6830f3d"
     }
   },
   "eu.kanade.tachiyomi.extension.all.pawchive": {
