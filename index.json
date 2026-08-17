@@ -3094,9 +3094,9 @@
         "name": "Lezhin",
         "packageName": "eu.kanade.tachiyomi.extension.all.lezhin",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.lezhin-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/6ef7b56/tachiyomi-all.lezhin-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/lezhin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c86a81/tachiyomi-all.lezhin-v1.6.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/6ef7b56/tachiyomi-all.lezhin-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "2",

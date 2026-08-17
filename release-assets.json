@@ -582,11 +582,11 @@
   "eu.kanade.tachiyomi.extension.all.lezhin": {
     "apk": {
       "name": "tachiyomi-all.lezhin-v1.6.2.apk",
-      "sha256": "02ebe1586b5d48cffb5f0aa1c9a5ea86676885310694cff9d6d769351cc561d7"
+      "sha256": "1ecfd0bb103585f43916726e7305b8bf6c19bcf0ac2bd5057f63534f8a19206a"
     },
     "jar": {
       "name": "tachiyomi-all.lezhin-v1.6.2.jar",
-      "sha256": "577999933cc79026ea94fa63eab5b008174133c3adc4f907f260d0af29900552"
+      "sha256": "e8e42754e45392133efe9f0781427598ce314027e98262a41cd816bf93e7deb5"
     }
   },
   "eu.kanade.tachiyomi.extension.all.lunaranime": {
