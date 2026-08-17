@@ -13122,13 +13122,13 @@
         "name": "Mangago",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.mangago-v1.6.39.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/5774a15/tachiyomi-en.mangago-v1.6.40.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/mangago/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.mangago-v1.6.39.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/5774a15/tachiyomi-en.mangago-v1.6.40.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "39",
-        "versionName": "1.6.39",
+        "versionCode": "40",
+        "versionName": "1.6.40",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

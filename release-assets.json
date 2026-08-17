@@ -3771,12 +3771,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangago": {
     "apk": {
-      "name": "tachiyomi-en.mangago-v1.6.39.apk",
-      "sha256": "1d83bb971b55286717f351dcadaf7784435d1de6a9784e859116e364149ec704"
+      "name": "tachiyomi-en.mangago-v1.6.40.apk",
+      "sha256": "ff7eca0d079e189581ecf6bb8f2b0d0899852f0e21667954d15c68f21442d37a"
     },
     "jar": {
-      "name": "tachiyomi-en.mangago-v1.6.39.jar",
-      "sha256": "44048b05c38ab68a51d334a3674637acc7951e1a1332e0cc57129c549c4abd75"
+      "name": "tachiyomi-en.mangago-v1.6.40.jar",
+      "sha256": "9af955c7e8a77b1112adc949b8681120093319c971fb90260b5f077a1d88b965"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangagofun": {
