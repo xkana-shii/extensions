@@ -432,7 +432,7 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-all.comicgrowl-v1.4.13.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-all.comicgrowl-v1.4.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/comicgrowl/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-all.comicgrowl-v1.4.13.jar"
         },
@@ -3094,7 +3094,7 @@
         "name": "Lezhin",
         "packageName": "eu.kanade.tachiyomi.extension.all.lezhin",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/6ef7b56/tachiyomi-all.lezhin-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-all.lezhin-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/lezhin/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/6ef7b56/tachiyomi-all.lezhin-v1.6.2.jar"
         },
@@ -6622,13 +6622,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-all.xcomic-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-all.xcomic-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-all.xcomic-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-all.xcomic-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -8170,13 +8170,13 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-ar.dilar-v1.6.12.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ar.dilar-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-ar.dilar-v1.6.12.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ar.dilar-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "12",
-        "versionName": "1.6.12",
+        "versionCode": "13",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9563,13 +9563,13 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.asurascans-v1.6.66.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.asurascans-v1.6.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/asurascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.asurascans-v1.6.66.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.asurascans-v1.6.67.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "66",
-        "versionName": "1.6.66",
+        "versionCode": "67",
+        "versionName": "1.6.67",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9605,13 +9605,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.atsumaru-v1.6.21.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.atsumaru-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.atsumaru-v1.6.21.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.atsumaru-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "21",
-        "versionName": "1.6.21",
+        "versionCode": "22",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -10365,7 +10365,7 @@
         "name": "Desire Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.desirescans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.desirescans-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.desirescans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/desirescans/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.desirescans-v1.6.1.jar"
         },
@@ -10428,7 +10428,7 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.divascans-v1.4.25.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.divascans-v1.4.25.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/divascans/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.divascans-v1.4.25.jar"
         },
@@ -10533,13 +10533,13 @@
         "name": "Dusk Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.duskscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.duskscans-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.duskscans-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/duskscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.duskscans-v1.6.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.duskscans-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "2",
-        "versionName": "1.6.2",
+        "versionCode": "3",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11814,9 +11814,9 @@
         "name": "InfinityScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infinityscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.infinityscans-v1.6.12.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.infinityscans-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.infinityscans-v1.6.12.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.infinityscans-v1.6.12.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "12",
@@ -11898,9 +11898,9 @@
         "name": "J-Novel",
         "packageName": "eu.kanade.tachiyomi.extension.en.jnovel",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.jnovel-v1.4.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.jnovel-v1.4.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/jnovel/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.jnovel-v1.4.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.jnovel-v1.4.4.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "4",
@@ -12492,7 +12492,7 @@
         "name": "LustToon",
         "packageName": "eu.kanade.tachiyomi.extension.en.lusttoon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.lusttoon-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.lusttoon-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/lusttoon/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.lusttoon-v1.4.1.jar"
         },
@@ -12786,7 +12786,7 @@
         "name": "MangaK",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.mangabuddy-v1.6.34.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.mangabuddy-v1.6.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/mangabuddy/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.mangabuddy-v1.6.34.jar"
         },
@@ -13992,9 +13992,9 @@
         "name": "Manhua Rush",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuarush",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.manhuarush-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.manhuarush-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/manhuarush/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-0/tachiyomi-en.manhuarush-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.manhuarush-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -16062,13 +16062,13 @@
         "name": "ReiManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.reimanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.reimanga-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.reimanga-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/reimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.reimanga-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.reimanga-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "4",
-        "versionName": "1.6.4",
+        "versionCode": "5",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16125,9 +16125,9 @@
         "name": "Revival Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.revivalscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.revivalscans-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.revivalscans-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/revivalscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.revivalscans-v1.4.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.revivalscans-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
@@ -16356,7 +16356,7 @@
         "name": "SACACHISPA",
         "packageName": "eu.kanade.tachiyomi.extension.en.sacachispa",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.sacachispa-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.sacachispa-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/sacachispa/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.sacachispa-v1.4.1.jar"
         },
@@ -16802,9 +16802,9 @@
         "name": "Team Shadowi",
         "packageName": "eu.kanade.tachiyomi.extension.en.teamshadowi",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.teamshadowi-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.teamshadowi-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/teamshadowi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.teamshadowi-v1.4.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.teamshadowi-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
@@ -16823,9 +16823,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.templescan-v1.4.50.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.templescan-v1.4.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.templescan-v1.4.50.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.templescan-v1.4.50.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "50",
@@ -17033,7 +17033,7 @@
         "name": "Toonily.me",
         "packageName": "eu.kanade.tachiyomi.extension.en.toonilyme",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.toonilyme-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.toonilyme-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/toonilyme/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.toonilyme-v1.6.4.jar"
         },
@@ -17159,7 +17159,7 @@
         "name": "Valir Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.valirscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.valirscans-v1.4.22.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.valirscans-v1.4.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/valirscans/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.valirscans-v1.4.22.jar"
         },
@@ -17753,9 +17753,9 @@
         "name": "Yorai",
         "packageName": "eu.kanade.tachiyomi.extension.en.yorai",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.yorai-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.yorai-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/yorai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-en.yorai-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-en.yorai-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -18173,9 +18173,9 @@
         "name": "Code Arc Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.codearc-v1.4.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.codearc-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.codearc-v1.4.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.codearc-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "3",
@@ -18887,7 +18887,7 @@
         "name": "MangoLibreria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectormonline",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.lectormonline-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.lectormonline-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/lectormonline/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.lectormonline-v1.4.2.jar"
         },
@@ -18950,9 +18950,9 @@
         "name": "Lmtos",
         "packageName": "eu.kanade.tachiyomi.extension.es.lmtoonline",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.lmtoonline-v1.4.54.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.lmtoonline-v1.4.54.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/lmtoonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.lmtoonline-v1.4.54.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.lmtoonline-v1.4.54.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "54",
@@ -19412,7 +19412,7 @@
         "name": "NeoManga",
         "packageName": "eu.kanade.tachiyomi.extension.es.neomanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.neomanga-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-es.neomanga-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/neomanga/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-es.neomanga-v1.4.1.jar"
         },
@@ -20132,9 +20132,9 @@
         "name": "Astral-Manga",
         "packageName": "eu.kanade.tachiyomi.extension.fr.astralmanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.astralmanga-v1.4.48.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.astralmanga-v1.4.48.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/astralmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.astralmanga-v1.4.48.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.astralmanga-v1.4.48.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "48",
@@ -20762,9 +20762,9 @@
         "name": "Ono",
         "packageName": "eu.kanade.tachiyomi.extension.fr.ono",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.ono-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.ono-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/ono/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.ono-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.ono-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -20783,9 +20783,9 @@
         "name": "Ortega Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.ortegascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.ortegascans-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.ortegascans-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/ortegascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.ortegascans-v1.4.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.ortegascans-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
@@ -20888,9 +20888,9 @@
         "name": "Poseidon Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.poseidonscans-v1.4.51.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.poseidonscans-v1.4.51.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/poseidonscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.poseidonscans-v1.4.51.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.poseidonscans-v1.4.51.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "51",
@@ -20930,7 +20930,7 @@
         "name": "Rimu Scans",
         "packageName": "eu.kanade.tachiyomi.extension.fr.rimuscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.rimuscans-v1.4.35.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-fr.rimuscans-v1.4.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/rimuscans/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-fr.rimuscans-v1.4.35.jar"
         },
@@ -22883,9 +22883,9 @@
         "name": "Softkomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.softkomik",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-id.softkomik-v1.4.13.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-id.softkomik-v1.4.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/softkomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-id.softkomik-v1.4.13.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-id.softkomik-v1.4.13.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "13",
@@ -23009,7 +23009,7 @@
         "name": "Wurmz",
         "packageName": "eu.kanade.tachiyomi.extension.id.wurmz",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-id.wurmz-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-id.wurmz-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/wurmz/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-id.wurmz-v1.4.1.jar"
         },
@@ -23429,7 +23429,7 @@
         "name": "Big Comics",
         "packageName": "eu.kanade.tachiyomi.extension.ja.bigcomics",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.bigcomics-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.bigcomics-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/bigcomics/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.bigcomics-v1.4.6.jar"
         },
@@ -23597,9 +23597,9 @@
         "name": "Comic Festa",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicfesta",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicfesta-v1.4.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.comicfesta-v1.4.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/comicfesta/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicfesta-v1.4.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.comicfesta-v1.4.3.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "3",
@@ -23681,7 +23681,7 @@
         "name": "G-Comi",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicmedu",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicmedu-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.comicmedu-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/comicmedu/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicmedu-v1.4.6.jar"
         },
@@ -23765,7 +23765,7 @@
         "name": "Comic Pash",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicpash",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicpash-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.comicpash-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/comicpash/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicpash-v1.4.6.jar"
         },
@@ -23786,7 +23786,7 @@
         "name": "Comic Ride",
         "packageName": "eu.kanade.tachiyomi.extension.ja.comicride",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicride-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.comicride-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/comicride/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.comicride-v1.4.5.jar"
         },
@@ -23912,9 +23912,9 @@
         "name": "CyComi",
         "packageName": "eu.kanade.tachiyomi.extension.ja.cycomi",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.cycomi-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.cycomi-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/cycomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.cycomi-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.cycomi-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -24065,9 +24065,9 @@
         "name": "Flower Comics",
         "packageName": "eu.kanade.tachiyomi.extension.ja.flowercomics",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.flowercomics-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.flowercomics-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/flowercomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.flowercomics-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.flowercomics-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -24170,9 +24170,9 @@
         "name": "Goraku Web",
         "packageName": "eu.kanade.tachiyomi.extension.ja.gorakuweb",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.gorakuweb-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.gorakuweb-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/gorakuweb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.gorakuweb-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.gorakuweb-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -24212,7 +24212,7 @@
         "name": "Hana To Yume+",
         "packageName": "eu.kanade.tachiyomi.extension.ja.hanayume",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.hanayume-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.hanayume-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/hanayume/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.hanayume-v1.4.5.jar"
         },
@@ -24233,7 +24233,7 @@
         "name": "HERO'S Web",
         "packageName": "eu.kanade.tachiyomi.extension.ja.herosweb",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.herosweb-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.herosweb-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/herosweb/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.herosweb-v1.4.5.jar"
         },
@@ -24380,7 +24380,7 @@
         "name": "KimiComi",
         "packageName": "eu.kanade.tachiyomi.extension.ja.kimicomi",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.kimicomi-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.kimicomi-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/kimicomi/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-1/tachiyomi-ja.kimicomi-v1.4.6.jar"
         },
@@ -24653,7 +24653,7 @@
         "name": "Champion Cross",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangacross",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangacross-v1.4.10.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.mangacross-v1.4.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/mangacross/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangacross-v1.4.10.jar"
         },
@@ -24758,9 +24758,9 @@
         "name": "MangaMee",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangamee",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangamee-v1.4.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.mangamee-v1.4.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/mangamee/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangamee-v1.4.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.mangamee-v1.4.2.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "2",
@@ -24947,7 +24947,7 @@
         "name": "Manga Zegra",
         "packageName": "eu.kanade.tachiyomi.extension.ja.mangazegra",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangazegra-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.mangazegra-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/mangazegra/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.mangazegra-v1.4.5.jar"
         },
@@ -25136,9 +25136,9 @@
         "name": "Pixiv Comic",
         "packageName": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.pixivcomic-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.pixivcomic-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/pixivcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.pixivcomic-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.pixivcomic-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "4",
@@ -25388,7 +25388,7 @@
         "name": "RimacomiPlus",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rimacomiplus",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.rimacomiplus-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.rimacomiplus-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/rimacomiplus/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.rimacomiplus-v1.4.5.jar"
         },
@@ -25493,7 +25493,7 @@
         "name": "TakeComic",
         "packageName": "eu.kanade.tachiyomi.extension.ja.takecomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.takecomic-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.takecomic-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/takecomic/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.takecomic-v1.4.6.jar"
         },
@@ -25667,7 +25667,7 @@
         "name": "Young Animal",
         "packageName": "eu.kanade.tachiyomi.extension.ja.younganimal",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.younganimal-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.younganimal-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/younganimal/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.younganimal-v1.4.5.jar"
         },
@@ -25688,7 +25688,7 @@
         "name": "Young Champion",
         "packageName": "eu.kanade.tachiyomi.extension.ja.youngchampion",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.youngchampion-v1.4.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-ja.youngchampion-v1.4.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/youngchampion/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-ja.youngchampion-v1.4.5.jar"
         },
@@ -26069,9 +26069,9 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.argoscomics-v1.6.57.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.argoscomics-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.argoscomics-v1.6.57.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.argoscomics-v1.6.57.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "57",
@@ -26888,17 +26888,17 @@
         "name": "Leitor de Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leitordemangas",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.leitordemangas-v1.4.52.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.leitordemangas-v1.6.53.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.leitordemangas-v1.4.52.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.leitordemangas-v1.6.53.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "extensionLib": "1.6",
+        "versionCode": "53",
+        "versionName": "1.6.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "6589457175730154076",
+            "id": "7503746561325156612",
             "name": "Leitor de Mangas",
             "language": "pt-BR",
             "homeUrl": "https://leitordemangas.com"
@@ -26909,7 +26909,7 @@
         "name": "Leitura Manga",
         "packageName": "eu.kanade.tachiyomi.extension.pt.leituramanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.leituramanga-v1.4.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.leituramanga-v1.4.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/leituramanga/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.leituramanga-v1.4.6.jar"
         },
@@ -26993,9 +26993,9 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.lycantoons-v1.4.8.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.lycantoons-v1.4.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.lycantoons-v1.4.8.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.lycantoons-v1.4.8.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "8",
@@ -27119,13 +27119,13 @@
         "name": "MangaLivre.org",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangalivreorg-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangalivreorg-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangalivreorg-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangalivreorg-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "3",
-        "versionName": "1.6.3",
+        "versionCode": "4",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27158,23 +27158,44 @@
         ]
       },
       {
+        "name": "Manga NXY",
+        "packageName": "eu.kanade.tachiyomi.extension.pt.manganyx",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.manganyx-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/manganyx/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.manganyx-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5545056451990986567",
+            "name": "Manga NXY",
+            "language": "pt-BR",
+            "homeUrl": "https://manganyx.com"
+          }
+        ]
+      },
+      {
         "name": "Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangaonline",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangaonline-v1.4.56.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangaonline-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/mangaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangaonline-v1.4.56.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangaonline-v1.6.57.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "57",
+        "versionName": "1.6.57",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "3930085636692943299",
+            "id": "7203957529449460928",
             "name": "Manga Online",
             "language": "pt-BR",
-            "homeUrl": "https://mangaonline.blue"
+            "homeUrl": "https://mangaonline.green"
           }
         ]
       },
@@ -27182,17 +27203,17 @@
         "name": "Mangas Brasuka",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangasbrasuka-v1.4.55.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangasbrasuka-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/mangasbrasuka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mangasbrasuka-v1.4.55.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mangasbrasuka-v1.6.56.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
+        "extensionLib": "1.6",
+        "versionCode": "56",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "931953325247032113",
+            "id": "9021069622172695017",
             "name": "Mangas Brasuka",
             "language": "pt-BR",
             "homeUrl": "https://mangasbrasuka.com.br"
@@ -27371,17 +27392,17 @@
         "name": "Mugiwaras Oficial",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mugiwarasoficial-v1.4.55.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mugiwarasoficial-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.mugiwarasoficial-v1.4.55.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.mugiwarasoficial-v1.6.56.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "56",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": "2079534153507614534",
+            "id": "5560103996308474844",
             "name": "Mugiwaras Oficial",
             "language": "pt-BR",
             "homeUrl": "https://mugiwarasoficial.com"
@@ -27644,9 +27665,9 @@
         "name": "Pluma Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.plumacomics",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.plumacomics-v1.4.50.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.plumacomics-v1.4.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/plumacomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.plumacomics-v1.4.50.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.plumacomics-v1.4.50.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "50",
@@ -27770,9 +27791,9 @@
         "name": "RF Dragon Scan",
         "packageName": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.rfdragonscan-v1.4.13.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.rfdragonscan-v1.4.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/rfdragonscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.rfdragonscan-v1.4.13.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.rfdragonscan-v1.4.13.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "13",
@@ -27917,7 +27938,7 @@
         "name": "Yomu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.sssscanlator-v1.4.52.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-pt.sssscanlator-v1.4.52.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-pt.sssscanlator-v1.4.52.jar"
         },
@@ -30617,7 +30638,7 @@
         "name": "Mono Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.monomanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-tr.monomanga-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-tr.monomanga-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/monomanga/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-tr.monomanga-v1.4.1.jar"
         },
@@ -30974,9 +30995,9 @@
         "name": "Slept Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.sleptmanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-tr.sleptmanga-v1.4.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-tr.sleptmanga-v1.4.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/sleptmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-tr.sleptmanga-v1.4.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-tr.sleptmanga-v1.4.1.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "1",
@@ -31940,13 +31961,13 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.lxhentai-v1.6.36.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-vi.lxhentai-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.lxhentai-v1.6.36.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-vi.lxhentai-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "36",
-        "versionName": "1.6.36",
+        "versionCode": "37",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -32108,9 +32129,9 @@
         "name": "MinoTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.minotruyen",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.minotruyen-v1.6.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-vi.minotruyen-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/minotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.minotruyen-v1.6.5.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-vi.minotruyen-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "5",
@@ -32586,7 +32607,7 @@
         "name": "Truyen18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyen18",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.truyen18-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/51725e0/tachiyomi-vi.truyen18-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/truyen18/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/fdf68da-2/tachiyomi-vi.truyen18-v1.6.3.jar"
         },
