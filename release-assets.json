@@ -1381,12 +1381,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.yaoime": {
     "apk": {
-      "name": "tachiyomi-all.yaoime-v1.6.1.apk",
-      "sha256": "cf79e7300f33dcfde4746c006f853664049f597de9b124ad742940ff0240959b"
+      "name": "tachiyomi-all.yaoime-v1.6.2.apk",
+      "sha256": "da5cb21e2a7bcefe8735903027548b0a8e6a38abc0ca39fd57663a3dd57c2dcf"
     },
     "jar": {
-      "name": "tachiyomi-all.yaoime-v1.6.1.jar",
-      "sha256": "7e63ab2e8722d3829c4bf9e247fc1947524f326c79cf35da38715270ad64263f"
+      "name": "tachiyomi-all.yaoime-v1.6.2.jar",
+      "sha256": "17113b100d1b8cefd7a2b8fa2f095a9f05151977bac09677267a7fdbd9b7f270"
     }
   },
   "eu.kanade.tachiyomi.extension.all.yellownote": {
