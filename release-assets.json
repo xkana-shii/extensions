@@ -1041,12 +1041,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.patreon": {
     "apk": {
-      "name": "tachiyomi-all.patreon-v1.6.3.apk",
-      "sha256": "ff98262ec0f6a6ebe72d178229410903163e1ebefc18a712954b51726fca0da9"
+      "name": "tachiyomi-all.patreon-v1.6.4.apk",
+      "sha256": "01b6f3fbdb61251847db87a3bd5551681717a38cfde4b9c45fef3bcf3d3b8286"
     },
     "jar": {
-      "name": "tachiyomi-all.patreon-v1.6.3.jar",
-      "sha256": "639736a378c6f30c95608bd07c634c1bfcc9922838abff460e48c8a59b00956b"
+      "name": "tachiyomi-all.patreon-v1.6.4.jar",
+      "sha256": "efd471c85188d5dde48becbdb6b0c04d8952ecf4a7ed0c3a3a890aef353cabe7"
     }
   },
   "eu.kanade.tachiyomi.extension.all.pawchive": {

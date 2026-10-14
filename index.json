@@ -6524,13 +6524,13 @@
         "name": "Patreon",
         "packageName": "eu.kanade.tachiyomi.extension.all.patreon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-all.patreon-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/0ed9bc4/tachiyomi-all.patreon-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/patreon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-all.patreon-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/0ed9bc4/tachiyomi-all.patreon-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
