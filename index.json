@@ -712,13 +712,13 @@
         "name": "DeviantArt",
         "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.deviantart-v1.6.12.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.deviantart-v1.6.13.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.deviantart-v1.6.12.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.deviantart-v1.6.13.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106012",
-        "versionName": "1.6.12",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1159,13 +1159,13 @@
         "name": "FSI Comics",
         "packageName": "eu.kanade.tachiyomi.extension.all.fsicomics",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/07207af/tachiyomi-all.fsicomics-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.fsicomics-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/fsicomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/07207af/tachiyomi-all.fsicomics-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.fsicomics-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1225,13 +1225,13 @@
         "name": "GlobalComix",
         "packageName": "eu.kanade.tachiyomi.extension.all.globalcomix",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.globalcomix-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.globalcomix-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/globalcomix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.globalcomix-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.globalcomix-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1373,12 +1373,6 @@
             "homeUrl": "https://globalcomix.com"
           },
           {
-            "id": "857003208346192351",
-            "name": "GlobalComix",
-            "language": "lv",
-            "homeUrl": "https://globalcomix.com"
-          },
-          {
             "id": "4045163592638299384",
             "name": "GlobalComix",
             "language": "ms",
@@ -1388,12 +1382,6 @@
             "id": "8660336682320212854",
             "name": "GlobalComix",
             "language": "nl",
-            "homeUrl": "https://globalcomix.com"
-          },
-          {
-            "id": "1325846979854909240",
-            "name": "GlobalComix",
-            "language": "no",
             "homeUrl": "https://globalcomix.com"
           },
           {
@@ -1424,12 +1412,6 @@
             "id": "3631246013481179045",
             "name": "GlobalComix",
             "language": "sv",
-            "homeUrl": "https://globalcomix.com"
-          },
-          {
-            "id": "3295788255356719804",
-            "name": "GlobalComix",
-            "language": "sk",
             "homeUrl": "https://globalcomix.com"
           },
           {
@@ -1472,12 +1454,6 @@
             "id": "6987743887369255757",
             "name": "GlobalComix",
             "language": "vi",
-            "homeUrl": "https://globalcomix.com"
-          },
-          {
-            "id": "3451257781273481191",
-            "name": "GlobalComix",
-            "language": "zh-Hant",
             "homeUrl": "https://globalcomix.com"
           }
         ]
@@ -2455,6 +2431,33 @@
         ]
       },
       {
+        "name": "INKRUSH",
+        "packageName": "eu.kanade.tachiyomi.extension.all.inkrush",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.inkrush-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/inkrush/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.inkrush-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8266025984012516367",
+            "name": "INKRUSH",
+            "language": "en",
+            "homeUrl": "https://inkrush.site"
+          },
+          {
+            "id": "4051674970574307340",
+            "name": "INKRUSH",
+            "language": "id",
+            "homeUrl": "https://inkrush.site"
+          }
+        ]
+      },
+      {
         "name": "JJCOS",
         "packageName": "eu.kanade.tachiyomi.extension.all.jjcos",
         "resources": {
@@ -2815,13 +2818,13 @@
         "name": "SchaleNetwork",
         "packageName": "eu.kanade.tachiyomi.extension.all.koharu",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.koharu-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.koharu-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.koharu-v1.6.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.koharu-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2838,16 +2841,6 @@
             "id": "1484902275639232927",
             "name": "SchaleNetwork",
             "language": "en",
-            "homeUrl": "https://shupogaki.moe",
-            "mirrorUrls": [
-              "https://shupogaki.moe",
-              "https://niyaniya.moe"
-            ]
-          },
-          {
-            "id": "8512356093551591735",
-            "name": "SchaleNetwork",
-            "language": "ja",
             "homeUrl": "https://shupogaki.moe",
             "mirrorUrls": [
               "https://shupogaki.moe",
@@ -3095,13 +3088,13 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.lunaranime-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.lunaranime-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.lunaranime-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.lunaranime-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -3117,183 +3110,15 @@
             "homeUrl": "https://lunarx.to"
           },
           {
-            "id": "3699764450470657348",
-            "name": "Lunar Manga",
-            "language": "ar",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "2698159736988588223",
-            "name": "Lunar Manga",
-            "language": "bg",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "3551931974861576783",
-            "name": "Lunar Manga",
-            "language": "bn",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "547003087261446586",
-            "name": "Lunar Manga",
-            "language": "da",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4964257310156473044",
-            "name": "Lunar Manga",
-            "language": "de",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "215773824303536035",
-            "name": "Lunar Manga",
-            "language": "es",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4595247773355584967",
-            "name": "Lunar Manga",
-            "language": "es-419",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "7749937618675947100",
-            "name": "Lunar Manga",
-            "language": "fa",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "793390858613993949",
-            "name": "Lunar Manga",
-            "language": "fi",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "8304537992959679621",
-            "name": "Lunar Manga",
-            "language": "fr",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4939477701699344583",
-            "name": "Lunar Manga",
-            "language": "he",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4529330646808421343",
-            "name": "Lunar Manga",
-            "language": "hi",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
             "id": "8130073422666383933",
             "name": "Lunar Manga",
             "language": "id",
             "homeUrl": "https://lunarx.to"
           },
           {
-            "id": "8276119821263625468",
-            "name": "Lunar Manga",
-            "language": "it",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
             "id": "2848743514286834588",
             "name": "Lunar Manga",
             "language": "ja",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "5973585434561103442",
-            "name": "Lunar Manga",
-            "language": "ko",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "1272917377169479980",
-            "name": "Lunar Manga",
-            "language": "ms",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "568631194803448549",
-            "name": "Lunar Manga",
-            "language": "nl",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "1567267056564602747",
-            "name": "Lunar Manga",
-            "language": "no",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "89188894348015097",
-            "name": "Lunar Manga",
-            "language": "pl",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "690969786104967218",
-            "name": "Lunar Manga",
-            "language": "pt",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "1702733805309857480",
-            "name": "Lunar Manga",
-            "language": "pt-BR",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4798553287209680620",
-            "name": "Lunar Manga",
-            "language": "ru",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4407345724470685258",
-            "name": "Lunar Manga",
-            "language": "sv",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "3149622876127128169",
-            "name": "Lunar Manga",
-            "language": "th",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "6989036438623575060",
-            "name": "Lunar Manga",
-            "language": "tl",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "3881169888283649510",
-            "name": "Lunar Manga",
-            "language": "tr",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "3227262950343562837",
-            "name": "Lunar Manga",
-            "language": "ur",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "4976223882601884801",
-            "name": "Lunar Manga",
-            "language": "vi",
-            "homeUrl": "https://lunarx.to"
-          },
-          {
-            "id": "3021093696465448973",
-            "name": "Lunar Manga",
-            "language": "zh",
             "homeUrl": "https://lunarx.to"
           }
         ]
@@ -4241,13 +4066,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.mangafire-v1.6.34.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangafire-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.mangafire-v1.6.34.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangafire-v1.6.35.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106034",
-        "versionName": "1.6.34",
+        "versionCode": "106035",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -4991,6 +4816,33 @@
         ]
       },
       {
+        "name": "Manga Omega",
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangaomega",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangaomega-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/mangaomega/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangaomega-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2894342535414560681",
+            "name": "Manga Omega",
+            "language": "en",
+            "homeUrl": "https://mangaomega.com"
+          },
+          {
+            "id": "8289860289735224810",
+            "name": "Manga Omega",
+            "language": "es",
+            "homeUrl": "https://mangaomega.com"
+          }
+        ]
+      },
+      {
         "name": "MANGA Plus by SHUEISHA",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
         "resources": {
@@ -5111,13 +4963,13 @@
         "name": "MangaToon (Limited)",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangatoon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.mangatoon-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangatoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/mangatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.mangatoon-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.mangatoon-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -5160,12 +5012,6 @@
             "id": "6666752184827525866",
             "name": "MangaToon (Limited)",
             "language": "fr",
-            "homeUrl": "https://mangatoon.mobi"
-          },
-          {
-            "id": "3509597554682217593",
-            "name": "MangaToon (Limited)",
-            "language": "ja",
             "homeUrl": "https://mangatoon.mobi"
           },
           {
@@ -5690,13 +5536,13 @@
         "name": "NamiComi",
         "packageName": "eu.kanade.tachiyomi.extension.all.namicomi",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.namicomi-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.namicomi-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-all.namicomi-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.namicomi-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -5736,12 +5582,6 @@
             "homeUrl": "https://namicomi.com"
           },
           {
-            "id": "1125922332535233758",
-            "name": "NamiComi",
-            "language": "hr",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
             "id": "2037282477963681758",
             "name": "NamiComi",
             "language": "cs",
@@ -5754,27 +5594,9 @@
             "homeUrl": "https://namicomi.com"
           },
           {
-            "id": "4139908687076589734",
-            "name": "NamiComi",
-            "language": "nl",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "1004520286290933688",
-            "name": "NamiComi",
-            "language": "et",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
             "id": "7846542287071503597",
             "name": "NamiComi",
             "language": "fil",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "8873510733793144577",
-            "name": "NamiComi",
-            "language": "fi",
             "homeUrl": "https://namicomi.com"
           },
           {
@@ -5787,12 +5609,6 @@
             "id": "6619013782987672377",
             "name": "NamiComi",
             "language": "de",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "7683690509668356869",
-            "name": "NamiComi",
-            "language": "el",
             "homeUrl": "https://namicomi.com"
           },
           {
@@ -5811,18 +5627,6 @@
             "id": "7787558791584052317",
             "name": "NamiComi",
             "language": "hu",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "1123824014117121209",
-            "name": "NamiComi",
-            "language": "is",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "3535683894794049489",
-            "name": "NamiComi",
-            "language": "ga",
             "homeUrl": "https://namicomi.com"
           },
           {
@@ -5850,39 +5654,9 @@
             "homeUrl": "https://namicomi.com"
           },
           {
-            "id": "6196723908897486263",
-            "name": "NamiComi",
-            "language": "lt",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
             "id": "6113965282317121452",
             "name": "NamiComi",
             "language": "ms",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "1665825055279512321",
-            "name": "NamiComi",
-            "language": "ne",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "6572043706378944577",
-            "name": "NamiComi",
-            "language": "no",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "723436680125197351",
-            "name": "NamiComi",
-            "language": "pa",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "569401976641132670",
-            "name": "NamiComi",
-            "language": "fa",
             "homeUrl": "https://namicomi.com"
           },
           {
@@ -5910,18 +5684,6 @@
             "homeUrl": "https://namicomi.com"
           },
           {
-            "id": "1406651071058914280",
-            "name": "NamiComi",
-            "language": "sk",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "1665334647759224307",
-            "name": "NamiComi",
-            "language": "sl",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
             "id": "3720618907480183068",
             "name": "NamiComi",
             "language": "es-419",
@@ -5931,12 +5693,6 @@
             "id": "7482985666811016125",
             "name": "NamiComi",
             "language": "es",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "4005855460574344551",
-            "name": "NamiComi",
-            "language": "sv",
             "homeUrl": "https://namicomi.com"
           },
           {
@@ -5963,13 +5719,13 @@
         "name": "nHentai.com (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaicom",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.nhentaicom-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.nhentaicom-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/nhentaicom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.nhentaicom-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.nhentaicom-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -6069,12 +5825,6 @@
             "homeUrl": "https://nhentai.com"
           },
           {
-            "id": "8555144793292118035",
-            "name": "nHentai.com (unoriginal)",
-            "language": "fi",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
             "id": "6423038744951581148",
             "name": "nHentai.com (unoriginal)",
             "language": "tr",
@@ -6090,18 +5840,6 @@
             "id": "6038464145206378323",
             "name": "nHentai.com (unoriginal)",
             "language": "el",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6508316838749142103",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ko",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8274834393370700931",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ro",
             "homeUrl": "https://nhentai.com"
           }
         ]
@@ -7409,13 +7147,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.xcomic-v1.6.9.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.xcomic-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-all.xcomic-v1.6.9.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-all.xcomic-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -7575,18 +7313,6 @@
             ]
           },
           {
-            "id": "3566404164873791064",
-            "name": "XCOMIC",
-            "language": "ab",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "5728564989597951801",
             "name": "XCOMIC",
             "language": "af",
@@ -7611,33 +7337,9 @@
             ]
           },
           {
-            "id": "857829070613697917",
-            "name": "XCOMIC",
-            "language": "am",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "1056878809650357054",
             "name": "XCOMIC",
             "language": "ar",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "8442441626343362896",
-            "name": "XCOMIC",
-            "language": "hy",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -7674,18 +7376,6 @@
             "id": "6254472971589097316",
             "name": "XCOMIC",
             "language": "bn",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "6326397027999974084",
-            "name": "XCOMIC",
-            "language": "bs",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -7851,18 +7541,6 @@
             ]
           },
           {
-            "id": "7962475412178605345",
-            "name": "XCOMIC",
-            "language": "fo",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "5444937582138684030",
             "name": "XCOMIC",
             "language": "fil",
@@ -7923,45 +7601,9 @@
             ]
           },
           {
-            "id": "5135458544544074625",
-            "name": "XCOMIC",
-            "language": "gn",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "1260385570722906246",
             "name": "XCOMIC",
             "language": "gu",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "4378923728346736971",
-            "name": "XCOMIC",
-            "language": "ht",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "1421242117543861759",
-            "name": "XCOMIC",
-            "language": "ha",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8019,18 +7661,6 @@
             ]
           },
           {
-            "id": "5875227647466590197",
-            "name": "XCOMIC",
-            "language": "ig",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "6247109808466815737",
             "name": "XCOMIC",
             "language": "ga",
@@ -8079,18 +7709,6 @@
             ]
           },
           {
-            "id": "2555874404031785394",
-            "name": "XCOMIC",
-            "language": "kn",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "5662825458844463537",
             "name": "XCOMIC",
             "language": "kk",
@@ -8103,45 +7721,9 @@
             ]
           },
           {
-            "id": "6978974499268021424",
-            "name": "XCOMIC",
-            "language": "ku",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "6988149213403694605",
-            "name": "XCOMIC",
-            "language": "ky",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "5513250945759736859",
             "name": "XCOMIC",
             "language": "la",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "7026881865612253028",
-            "name": "XCOMIC",
-            "language": "lo",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8175,42 +7757,6 @@
             ]
           },
           {
-            "id": "1329293629284029285",
-            "name": "XCOMIC",
-            "language": "lb",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "1823869755428709544",
-            "name": "XCOMIC",
-            "language": "mk",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "108868296923167084",
-            "name": "XCOMIC",
-            "language": "mg",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "7225841250679865793",
             "name": "XCOMIC",
             "language": "ms",
@@ -8226,30 +7772,6 @@
             "id": "9161882230332210842",
             "name": "XCOMIC",
             "language": "ml",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "4812305674669058350",
-            "name": "XCOMIC",
-            "language": "mt",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "959518579269945569",
-            "name": "XCOMIC",
-            "language": "mi",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8319,30 +7841,6 @@
             ]
           },
           {
-            "id": "7304840866514485216",
-            "name": "XCOMIC",
-            "language": "ny",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "1717186623085225083",
-            "name": "XCOMIC",
-            "language": "ps",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "771703135489548626",
             "name": "XCOMIC",
             "language": "fa",
@@ -8370,30 +7868,6 @@
             "id": "4676314052275465233",
             "name": "XCOMIC",
             "language": "ro",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "7402169267566704087",
-            "name": "XCOMIC",
-            "language": "rm",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "3158959905555690336",
-            "name": "XCOMIC",
-            "language": "sm",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8439,42 +7913,6 @@
             ]
           },
           {
-            "id": "7037541923732246202",
-            "name": "XCOMIC",
-            "language": "st",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "8882515912790968826",
-            "name": "XCOMIC",
-            "language": "sn",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "1220014044988990984",
-            "name": "XCOMIC",
-            "language": "sd",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "837476130197093292",
             "name": "XCOMIC",
             "language": "si",
@@ -8511,45 +7949,9 @@
             ]
           },
           {
-            "id": "1082537919377794470",
-            "name": "XCOMIC",
-            "language": "so",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "5634766783505645904",
-            "name": "XCOMIC",
-            "language": "sw",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "5793474496376459492",
             "name": "XCOMIC",
             "language": "sv",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "6706703456285335159",
-            "name": "XCOMIC",
-            "language": "tg",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8595,45 +7997,9 @@
             ]
           },
           {
-            "id": "5144141861335321638",
-            "name": "XCOMIC",
-            "language": "ti",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "6647368708744077163",
-            "name": "XCOMIC",
-            "language": "to",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
             "id": "6593451456647607548",
             "name": "XCOMIC",
             "language": "tr",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "7758596679089783493",
-            "name": "XCOMIC",
-            "language": "tk",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -8682,18 +8048,6 @@
             "id": "4245057044546585936",
             "name": "XCOMIC",
             "language": "vi",
-            "homeUrl": "https://xcomic.me",
-            "mirrorUrls": [
-              "https://xcomic.me",
-              "https://xcomic.net",
-              "https://comik.to",
-              "https://yona.to"
-            ]
-          },
-          {
-            "id": "4953926481828561899",
-            "name": "XCOMIC",
-            "language": "yo",
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
@@ -9254,13 +8608,13 @@
         "name": "AsgardScans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.asgardscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ar.asgardscans-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.asgardscans-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ar/asgardscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ar.asgardscans-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.asgardscans-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9569,13 +8923,13 @@
         "name": "Kawii Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.kawiimanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-ar.kawiimanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.kawiimanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ar/kawiimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-ar.kawiimanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.kawiimanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9891,13 +9245,13 @@
         "name": "MangaTek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ar.mangatek-v1.6.9.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.mangatek-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ar.mangatek-v1.6.9.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ar.mangatek-v1.6.10.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106009",
-        "versionName": "1.6.9",
+        "versionCode": "106010",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -10819,13 +10173,13 @@
         "name": "Asura Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-0/tachiyomi-en.asurascans-v1.6.69.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.asurascans-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/asurascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-0/tachiyomi-en.asurascans-v1.6.69.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.asurascans-v1.6.70.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106069",
-        "versionName": "1.6.69",
+        "versionCode": "106070",
+        "versionName": "1.6.70",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11260,13 +10614,13 @@
         "name": "Coffee Manga (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.coffeemangaunoriginal-v1.6.56.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.coffeemangaunoriginal-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.coffeemangaunoriginal-v1.6.56.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.coffeemangaunoriginal-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11344,13 +10698,13 @@
         "name": "ComicHubFree",
         "packageName": "eu.kanade.tachiyomi.extension.en.comichubfree",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.comichubfree-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.comichubfree-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/comichubfree/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.comichubfree-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.comichubfree-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11407,13 +10761,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.comix-v1.6.57.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.comix-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.comix-v1.6.57.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.comix-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11663,13 +11017,13 @@
         "name": "Diva Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.divascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.divascans-v1.6.31.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.divascans-v1.6.32.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/divascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.divascans-v1.6.31.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.divascans-v1.6.32.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106031",
-        "versionName": "1.6.31",
+        "versionCode": "106032",
+        "versionName": "1.6.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11747,13 +11101,13 @@
         "name": "Drake Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.drakescans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.drakescans-v1.6.54.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.drakescans-v1.6.55.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/drakescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.drakescans-v1.6.54.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.drakescans-v1.6.55.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106054",
-        "versionName": "1.6.54",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11915,13 +11269,13 @@
         "name": "Elf Toon",
         "packageName": "eu.kanade.tachiyomi.extension.en.elftoon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.elftoon-v1.6.10.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.elftoon-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/elftoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.elftoon-v1.6.10.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.elftoon-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12713,13 +12067,13 @@
         "name": "HentaiRead",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.hentairead-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.hentairead-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/hentairead/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.hentairead-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.hentairead-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -13322,13 +12676,13 @@
         "name": "Kayn Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.kaynscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.kaynscans-v1.6.37.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.kaynscans-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/kaynscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.kaynscans-v1.6.37.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.kaynscans-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106037",
-        "versionName": "1.6.37",
+        "versionCode": "106038",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -13385,13 +12739,13 @@
         "name": "KeroScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.keroscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.keroscans-v1.6.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.keroscans-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/keroscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.keroscans-v1.6.6.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.keroscans-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -13693,6 +13047,27 @@
             "name": "Leslie&Victims",
             "language": "en",
             "homeUrl": "https://leslie-victims.pages.dev"
+          }
+        ]
+      },
+      {
+        "name": "Lgbtics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.lgbtics",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.lgbtics-v1.6.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/lgbtics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.lgbtics-v1.6.56.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4306337471481207984",
+            "name": "Lgbtics",
+            "language": "en",
+            "homeUrl": "https://lgbtics.com"
           }
         ]
       },
@@ -14015,13 +13390,13 @@
         "name": "Mahouirexnohentaikarte",
         "packageName": "eu.kanade.tachiyomi.extension.en.mahouirexnohentaikarte",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.mahouirexnohentaikarte-v1.6.55.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mahouirexnohentaikarte-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/mahouirexnohentaikarte/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.mahouirexnohentaikarte-v1.6.55.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mahouirexnohentaikarte-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -14330,13 +13705,13 @@
         "name": "MangaDot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/07207af/tachiyomi-en.mangadotnet-v1.6.25.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangadotnet-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/07207af/tachiyomi-en.mangadotnet-v1.6.25.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangadotnet-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106025",
-        "versionName": "1.6.25",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14993,13 +14368,13 @@
         "name": "Manga Drama",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadrama",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.mangadrama-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangadrama-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.mangadrama-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangadrama-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -15354,13 +14729,13 @@
         "name": "MangaLix",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangalix",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-0/tachiyomi-en.mangalix-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangalix-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/mangalix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-0/tachiyomi-en.mangalix-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.mangalix-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -15947,13 +15322,13 @@
         "name": "ManhuaTop",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuatop",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.manhuatop-v1.6.56.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.manhuatop-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.manhuatop-v1.6.56.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.manhuatop-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -16812,13 +16187,13 @@
         "name": "NexComic",
         "packageName": "eu.kanade.tachiyomi.extension.en.nexcomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.nexcomic-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.nexcomic-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/nexcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.nexcomic-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.nexcomic-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -17187,6 +16562,27 @@
         ]
       },
       {
+        "name": "OriYami",
+        "packageName": "eu.kanade.tachiyomi.extension.en.oriyami",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.oriyami-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/oriyami/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.oriyami-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3786594066286839843",
+            "name": "OriYami",
+            "language": "en",
+            "homeUrl": "https://oriyami.com"
+          }
+        ]
+      },
+      {
         "name": "Paradise Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.paradisescans",
         "resources": {
@@ -17274,13 +16670,13 @@
         "name": "Philia Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.philiascans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.philiascans-v1.6.2.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.philiascans-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/philiascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.philiascans-v1.6.2.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.philiascans-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17456,27 +16852,6 @@
             "name": "Raven Scans",
             "language": "en",
             "homeUrl": "https://ravenscans.org"
-          }
-        ]
-      },
-      {
-        "name": "Razure",
-        "packageName": "eu.kanade.tachiyomi.extension.en.razure",
-        "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.razure-v1.6.0.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/razure/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-en.razure-v1.6.0.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3017959474962204247",
-            "name": "Razure",
-            "language": "en",
-            "homeUrl": "https://razure.org"
           }
         ]
       },
@@ -18027,6 +17402,27 @@
         ]
       },
       {
+        "name": "Ruby Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.rubycomics",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.rubycomics-v1.6.55.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/rubycomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.rubycomics-v1.6.55.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106055",
+        "versionName": "1.6.55",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6792243715659475719",
+            "name": "Ruby Comics",
+            "language": "en",
+            "homeUrl": "https://rubycomics.net"
+          }
+        ]
+      },
+      {
         "name": "RuriDragon Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.ruridragonmangaonline",
         "resources": {
@@ -18539,13 +17935,13 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.templescan-v1.6.60.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.templescan-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.templescan-v1.6.60.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.templescan-v1.6.62.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106062",
+        "versionName": "1.6.62",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -19007,13 +18403,13 @@
         "name": "Valir Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.valirscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.valirscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.valirscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/valirscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.valirscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.valirscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19091,13 +18487,13 @@
         "name": "VIZ",
         "packageName": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-1/tachiyomi-en.vizshonenjump-v1.6.29.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.vizshonenjump-v1.6.30.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/vizshonenjump/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-1/tachiyomi-en.vizshonenjump-v1.6.29.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.vizshonenjump-v1.6.30.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106029",
-        "versionName": "1.6.29",
+        "versionCode": "106030",
+        "versionName": "1.6.30",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19118,13 +18514,13 @@
         "name": "Voyce.Me",
         "packageName": "eu.kanade.tachiyomi.extension.en.voyceme",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-1/tachiyomi-en.voyceme-v1.6.7.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.voyceme-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/voyceme/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-1/tachiyomi-en.voyceme-v1.6.7.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.voyceme-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19223,13 +18619,13 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.webnex-v1.6.5.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.webnex-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.webnex-v1.6.5.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.webnex-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19258,6 +18654,27 @@
             "name": "WebNovel",
             "language": "en",
             "homeUrl": "https://www.webnovel.com"
+          }
+        ]
+      },
+      {
+        "name": "WebtoonClub",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webtoonclub",
+        "resources": {
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.webtoonclub-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/webtoonclub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.webtoonclub-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5827665338810887442",
+            "name": "WebtoonClub",
+            "language": "en",
+            "homeUrl": "https://webtoonclub.com"
           }
         ]
       },
@@ -19349,13 +18766,13 @@
         "name": "WitchScans",
         "packageName": "eu.kanade.tachiyomi.extension.en.witchscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.witchscans-v1.6.38.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.witchscans-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/witchscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-en.witchscans-v1.6.38.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.witchscans-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -19601,13 +19018,13 @@
         "name": "Zazamanga",
         "packageName": "eu.kanade.tachiyomi.extension.en.zazamanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.zazamanga-v1.6.56.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.zazamanga-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/en/zazamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-en.zazamanga-v1.6.56.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-en.zazamanga-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -19874,13 +19291,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.catharsisworld-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.catharsisworld-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.catharsisworld-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.catharsisworld-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20111,13 +19528,13 @@
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-es.dragontranslationorg-v1.6.59.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.dragontranslationorg-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-es.dragontranslationorg-v1.6.59.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.dragontranslationorg-v1.6.60.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106059",
-        "versionName": "1.6.59",
+        "versionCode": "106060",
+        "versionName": "1.6.60",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20153,13 +19570,13 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.emperorscan-v1.6.70.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.emperorscan-v1.6.71.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.emperorscan-v1.6.70.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.emperorscan-v1.6.71.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106070",
-        "versionName": "1.6.70",
+        "versionCode": "106071",
+        "versionName": "1.6.71",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20531,13 +19948,13 @@
         "name": "Lector Asteria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectorasteria",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-es.lectorasteria-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.lectorasteria-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/lectorasteria/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-0/tachiyomi-es.lectorasteria-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.lectorasteria-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20846,13 +20263,13 @@
         "name": "Mangas.in",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangasin",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.mangasin-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.mangasin-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-es.mangasin-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.mangasin-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -21696,13 +21113,13 @@
         "name": "Traducciones Moonlight",
         "packageName": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-es.traduccionesmoonlight-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.traduccionesmoonlight-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/es/traduccionesmoonlight/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-es.traduccionesmoonlight-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-es.traduccionesmoonlight-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -22920,13 +22337,13 @@
         "name": "Toon FR",
         "packageName": "eu.kanade.tachiyomi.extension.fr.toonfr",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-fr.toonfr-v1.6.55.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-fr.toonfr-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/fr/toonfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-fr.toonfr-v1.6.55.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-fr.toonfr-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -23067,13 +22484,13 @@
         "name": "BacaKomik",
         "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/7e1c88b-1/tachiyomi-id.bacakomik-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.bacakomik-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/bacakomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/7e1c88b-1/tachiyomi-id.bacakomik-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.bacakomik-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23277,13 +22694,13 @@
         "name": "Holotoon",
         "packageName": "eu.kanade.tachiyomi.extension.id.holotoon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-1/tachiyomi-id.holotoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.holotoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/holotoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/7e1c88b-1/tachiyomi-id.holotoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.holotoon-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23382,13 +22799,13 @@
         "name": "Kiryuu",
         "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.kiryuu-v1.6.59.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.kiryuu-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.kiryuu-v1.6.59.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.kiryuu-v1.6.60.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106059",
-        "versionName": "1.6.59",
+        "versionCode": "106060",
+        "versionName": "1.6.60",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -23676,13 +23093,13 @@
         "name": "Komiku",
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/7e1c88b-1/tachiyomi-id.komiku-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.komiku-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/komiku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/7e1c88b-1/tachiyomi-id.komiku-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.komiku-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -23697,13 +23114,13 @@
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-1/tachiyomi-id.komikucom-v1.6.35.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.komikucom-v1.6.36.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/komikucom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-1/tachiyomi-id.komikucom-v1.6.35.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.komikucom-v1.6.36.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106035",
-        "versionName": "1.6.35",
+        "versionCode": "106036",
+        "versionName": "1.6.36",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24012,13 +23429,13 @@
         "name": "Manhwa Indo",
         "packageName": "eu.kanade.tachiyomi.extension.id.manhwaindo",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-id.manhwaindo-v1.6.11.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.manhwaindo-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/manhwaindo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-id.manhwaindo-v1.6.11.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.manhwaindo-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24096,20 +23513,20 @@
         "name": "MG Komik",
         "packageName": "eu.kanade.tachiyomi.extension.id.mgkomik",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-id.mgkomik-v1.6.79.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.mgkomik-v1.6.80.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/mgkomik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-id.mgkomik-v1.6.79.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.mgkomik-v1.6.80.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106079",
-        "versionName": "1.6.79",
+        "versionCode": "106080",
+        "versionName": "1.6.80",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "5845004992097969882",
+            "id": "385263422541320229",
             "name": "MG Komik",
             "language": "id",
-            "homeUrl": "https://id.mgkomik.cc"
+            "homeUrl": "https://web1.mgkomik.cc"
           }
         ]
       },
@@ -24180,13 +23597,13 @@
         "name": "Natsu",
         "packageName": "eu.kanade.tachiyomi.extension.id.natsu",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.natsu-v1.6.40.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.natsu-v1.6.41.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/natsu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.natsu-v1.6.40.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.natsu-v1.6.41.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106040",
-        "versionName": "1.6.40",
+        "versionCode": "106041",
+        "versionName": "1.6.41",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24285,13 +23702,13 @@
         "name": "Omicaso",
         "packageName": "eu.kanade.tachiyomi.extension.id.omicaso",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-id.omicaso-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.omicaso-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/omicaso/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-id.omicaso-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.omicaso-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -24537,13 +23954,13 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/716a5bf/tachiyomi-id.shinigami-v1.6.83.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.shinigami-v1.6.84.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/716a5bf/tachiyomi-id.shinigami-v1.6.83.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.shinigami-v1.6.84.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106083",
-        "versionName": "1.6.83",
+        "versionCode": "106084",
+        "versionName": "1.6.84",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -24726,13 +24143,13 @@
         "name": "West Manga",
         "packageName": "eu.kanade.tachiyomi.extension.id.westmanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.westmanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.westmanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/id/westmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-id.westmanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-id.westmanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27445,20 +26862,20 @@
         "name": "RawBaka",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawbaka",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-ja.rawbaka-v1.6.55.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ja.rawbaka-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/rawbaka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-ja.rawbaka-v1.6.55.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ja.rawbaka-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106055",
-        "versionName": "1.6.55",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6022634600056613514",
             "name": "RawBaka",
             "language": "ja",
-            "homeUrl": "https://rawbaka.com"
+            "homeUrl": "https://rawbaka.site"
           }
         ]
       },
@@ -27508,13 +26925,13 @@
         "name": "Rawkuma",
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ja.rawkuma-v1.6.42.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ja.rawkuma-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/ja/rawkuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-ja.rawkuma-v1.6.42.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-ja.rawkuma-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -29386,13 +28803,13 @@
         "name": "Lycan Toons",
         "packageName": "eu.kanade.tachiyomi.extension.pt.lycantoons",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-pt.lycantoons-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-pt.lycantoons-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-pt.lycantoons-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-pt.lycantoons-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -30646,13 +30063,13 @@
         "name": "Yuri on Air",
         "packageName": "eu.kanade.tachiyomi.extension.pt.yuriverso",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-pt.yuriverso-v1.6.60.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-pt.yuriverso-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/pt/yuriverso/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/8c34e9c/tachiyomi-pt.yuriverso-v1.6.60.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-pt.yuriverso-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -32632,13 +32049,13 @@
         "name": "Koreli Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.korelimanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.korelimanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.korelimanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/korelimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.korelimanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.korelimanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32653,13 +32070,13 @@
         "name": "Koreli Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.koreliscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.koreliscans-v1.6.19.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.koreliscans-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/koreliscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.koreliscans-v1.6.19.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.koreliscans-v1.6.20.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106019",
-        "versionName": "1.6.19",
+        "versionCode": "106020",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32884,13 +32301,13 @@
         "name": "Manga Ruhu",
         "packageName": "eu.kanade.tachiyomi.extension.tr.mangaruhu",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.mangaruhu-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.mangaruhu-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/mangaruhu/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.mangaruhu-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.mangaruhu-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33031,13 +32448,13 @@
         "name": "Merlin Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.merlinscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.merlinscans-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.merlinscans-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/merlinscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.merlinscans-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.merlinscans-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33157,14 +32574,14 @@
         "name": "Nemesis scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.nemesisscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.nemesisscans-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.nemesisscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/nemesisscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.nemesisscans-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.nemesisscans-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4325951682189741537",
@@ -33241,13 +32658,13 @@
         "name": "OkuToon",
         "packageName": "eu.kanade.tachiyomi.extension.tr.okutoon",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.okutoon-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.okutoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/okutoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-tr.okutoon-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.okutoon-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -33283,13 +32700,13 @@
         "name": "Ori Manga",
         "packageName": "eu.kanade.tachiyomi.extension.tr.orimanga",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.orimanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.orimanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/orimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.orimanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.orimanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33304,13 +32721,13 @@
         "name": "Paradox Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.paradoxscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.paradoxscans-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.paradoxscans-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/paradoxscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.paradoxscans-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.paradoxscans-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33346,13 +32763,13 @@
         "name": "Ragnar Scans",
         "packageName": "eu.kanade.tachiyomi.extension.tr.ragnarscans",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.ragnarscans-v1.6.3.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.ragnarscans-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/ragnarscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.ragnarscans-v1.6.3.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.ragnarscans-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33472,13 +32889,13 @@
         "name": "Siyah Melek",
         "packageName": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.siyahmelek-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.siyahmelek-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/tr/siyahmelek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-tr.siyahmelek-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-tr.siyahmelek-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -33913,13 +33330,13 @@
         "name": "Faust",
         "packageName": "eu.kanade.tachiyomi.extension.uk.faust",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-uk.faust-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-uk.faust-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/uk/faust/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-uk.faust-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-uk.faust-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34169,20 +33586,20 @@
         "name": "Dua Leo Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.dualeotruyen-v1.6.33.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.dualeotruyen-v1.6.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.dualeotruyen-v1.6.33.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.dualeotruyen-v1.6.34.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106033",
-        "versionName": "1.6.33",
+        "versionCode": "106034",
+        "versionName": "1.6.34",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "1039830224122325226",
             "name": "D\u01b0a Leo Truy\u1ec7n",
             "language": "vi",
-            "homeUrl": "https://dualeotruyenbet.com"
+            "homeUrl": "https://dualeotruyenday.com"
           }
         ]
       },
@@ -34421,9 +33838,9 @@
         "name": "LavibitWindroom",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lavibitwindroom",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.lavibitwindroom-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.lavibitwindroom-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/lavibitwindroom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.lavibitwindroom-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.lavibitwindroom-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -34434,7 +33851,7 @@
             "id": "8113403657936436136",
             "name": "LavibitWindroom",
             "language": "vi",
-            "homeUrl": "https://lavibitwindroomgl.vercel.app"
+            "homeUrl": "https://lavibitwindroomgl.fun"
           }
         ]
       },
@@ -34442,13 +33859,13 @@
         "name": "LeesinComic",
         "packageName": "eu.kanade.tachiyomi.extension.vi.leesincomic",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-vi.leesincomic-v1.6.1.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.leesincomic-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/leesincomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/e96d75d-1/tachiyomi-vi.leesincomic-v1.6.1.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.leesincomic-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -34547,20 +33964,20 @@
         "name": "LXManga",
         "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.lxhentai-v1.6.42.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.lxhentai-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.lxhentai-v1.6.42.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.lxhentai-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "6495630445796108150",
             "name": "LXManga",
             "language": "vi",
-            "homeUrl": "https://lxmanga.space"
+            "homeUrl": "https://lxmanga.top"
           }
         ]
       },
@@ -35277,20 +34694,20 @@
         "name": "Top Truyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/138e817/tachiyomi-vi.toptruyen-v1.6.48.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.toptruyen-v1.6.49.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/138e817/tachiyomi-vi.toptruyen-v1.6.48.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.toptruyen-v1.6.49.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106048",
-        "versionName": "1.6.48",
+        "versionCode": "106049",
+        "versionName": "1.6.49",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "1166901607721102706",
             "name": "Top Truyen",
             "language": "vi",
-            "homeUrl": "https://www.toptruyenzone12.com"
+            "homeUrl": "https://www.toptruyenzone13.com"
           }
         ]
       },
@@ -35298,13 +34715,13 @@
         "name": "Tranh18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.tranh18",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/9b51def-2/tachiyomi-vi.tranh18-v1.6.6.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.tranh18-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/tranh18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/2949f65-2/tachiyomi-vi.tranh18-v1.6.6.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.tranh18-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -35592,13 +35009,13 @@
         "name": "TuSachXinhXinh",
         "packageName": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.tusachxinhxinh-v1.6.4.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.tusachxinhxinh-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/vi/tusachxinhxinh/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/253ff16/tachiyomi-vi.tusachxinhxinh-v1.6.4.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/d6a936c/tachiyomi-vi.tusachxinhxinh-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
