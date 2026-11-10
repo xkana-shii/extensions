@@ -793,13 +793,13 @@
         "name": "DLsite",
         "packageName": "eu.kanade.tachiyomi.extension.all.dlsite",
         "resources": {
-          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/0968cc6/tachiyomi-all.dlsite-v1.6.0.apk",
+          "apkUrl": "https://github.com/xkana-shii/extensions/releases/download/563bef0/tachiyomi-all.dlsite-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/xkana-shii/extensions-source@main/src/all/dlsite/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/0968cc6/tachiyomi-all.dlsite-v1.6.0.jar"
+          "jarUrl": "https://github.com/xkana-shii/extensions/releases/download/563bef0/tachiyomi-all.dlsite-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
